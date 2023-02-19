@@ -1,4 +1,4 @@
-# MoviePlus  Server (Backend)
+# Crypto Mania  Server (Backend)
 <img src="https://i.ibb.co/51PDVwk/gin.png" alt="gin" border="0" width="400" align="center"> 
 
 ## Project Summary 
