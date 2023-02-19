@@ -47,4 +47,4 @@ Built 3 models:
 ***
 In this step I deployed the postgreSQL database to AWS via 3rd party and deployed the Gin app to Railway Cloud.
 
-**Live Implemantation:** [MoviePlus](https://crypto-mania-react.vercel.app/)
+**Live Implemantation:** [Crypto-Mania](https://crypto-mania-react.vercel.app/)
