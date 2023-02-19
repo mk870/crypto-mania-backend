@@ -4,7 +4,7 @@
 ## Project Summary 
 * This  is a Restful Gin application with CRUD operations that allow users to create an account to the cryptomania app, save or add crypto coins to a personal watchlist, delete those crypto coins and login and out using Go jwt authentication.
 * It uses  Gin framework.
-* The app has 8 endpoints namely : /user, /logout, /verifification, /refresh-token, /login, /coin, /coins,and /coin/id.
+* The app has 8 endpoints namely : /user, /logout, /verification, /refresh-token, /login, /coin, /coins,and /coin/id.
 * Uses Go Jwt to secure these endpoints.
 * Uses Gin GORM to persist data to a postgreSQL database.
 
